@@ -1,4 +1,7 @@
 # TipCalc
+
+A simple android app (Java) that calculates tip based on prices and percentage.
+
 Assignment #6 for CS401-02
 
 ### App Walkthrough GIF
